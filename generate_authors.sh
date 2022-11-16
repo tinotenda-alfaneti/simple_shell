@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 #original source:
 #https://github.com/docker/docker/blob/master/hack/generate-authors.sh
 set -e
